@@ -30,7 +30,7 @@ curl https://raw.githubusercontent.com/snuzinator/vim-for-server/master/vimrc
 or  use git
 
 ```
-git clone https://github.com/wklken/vim-for-server.git
+git clone https://github.com/snuzinator/vim-for-server.git
 ln -s vim-for-server/vimrc ~/.vimrc
 ```
 

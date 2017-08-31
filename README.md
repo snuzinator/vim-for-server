@@ -25,7 +25,7 @@ cp ~/.vimrc ~/.vimrc_bak
 
 recommend
 ```
-curl https://raw.githubusercontent.com/snuzinator/vim-for-server/master/vimrc
+curl https://raw.githubusercontent.com/snuzinator/vim-for-server/master/vimrc > ~/.vimrc
 ```
 or  use git
 
